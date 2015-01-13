@@ -38,4 +38,12 @@ Big Data Engineering
 		5. Query + Visualize + Act
 		Then back to step .5 when new questions are generated
 
+Request Response Cycle
 
+	Http Request Methods
+		GET
+		POST
+		PUT
+		DELETE
+	
+	Http Server Recieves request and sends respon
