@@ -2,7 +2,7 @@
 
 ## Lecture 1 1/13/15
 
-GitHub language - Markdown syntax
+<p>GitHub language - Markdown syntax
 
 Big Data Engineering
 	Social Networks
