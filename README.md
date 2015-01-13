@@ -4,15 +4,15 @@
 
 <p>GitHub language - Markdown syntax
 
-Big Data Engineering
-	Social Networks
-	Data Analyitics
-  	Sampling
-  		Machine Learning
-	Storage
-		NoSQL
-		Data Modeling- 'wicked hard'
-		Document Databases
+*Big Data Engineering
+	*Social Networks
+	*Data Analyitics
+  	*Sampling
+  		*Machine Learning
+	*Storage
+		*NoSQL
+		*Data Modeling- 'wicked hard'
+		*Document Databases
 		Graph Databases
 		Key-Value Stores
 		Colormnar Stores
