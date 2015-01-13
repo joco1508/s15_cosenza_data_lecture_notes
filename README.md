@@ -8,7 +8,7 @@ Big Data Engineering
 	Social Networks
 	Data Analyitics
   	Sampling
-  	Machine Learning
+  		Machine Learning
 	Storage
 		NoSQL
 	
