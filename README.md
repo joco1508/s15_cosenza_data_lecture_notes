@@ -47,3 +47,9 @@ Request Response Cycle
 		DELETE
 	
 	Http Server Recieves request and sends respon
+
+##Lecture 2 1/15/15
+
+ABSENT
+
+##Lecture 3 1/20/15
