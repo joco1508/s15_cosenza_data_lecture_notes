@@ -52,4 +52,11 @@ Request Response Cycle
 
 ABSENT
 
-##Lecture 3 1/20/15
+##Lecture 5 1/27/15
+
+node.js
+	Functional programming language
+	Event Loop
+		Event-based programming
+			If this, then this
+		
